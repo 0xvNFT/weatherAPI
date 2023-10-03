@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">SBTY</string>
+    <string name="app_email">charmthie@gmail.com</string>
+    <string name="desc_add_city">thêm thành phố</string>
+    <string name="desc_more">lựa chọn khác</string>
+    <string name="desc_back">mặt sau</string>
+    <string name="degree_celsius_symbol">°C</string>
+    <string name="degree_celsius_symbol_with_temp">32.9°C</string>
+    <string name="degree_celsius_symbol_with_temp2">32°C</string>
+    <string name="degree_celsius_symbol_with_temp3">Buổi tối\n32°C</string>
+    <string name="desc_sunrise">icon of sunrise</string>
+    <string name="desc_sunset">icon of sunset</string>
+    <string name="label_real_feel">cảm giác thật</string>
+    <string name="label_humidity">độ ẩm</string>
+    <string name="label_cloudiness">nhiều mây</string>
+    <string name="label_pressure">Áp lực</string>
+    <string name="label_wind_speed">Tốc độ gió</string>
+    <string name="label_visibility">Hiển thị</string>
+    <string name="btn_label_forecast">dự báo 7 ngày</string>
+    <string name="label_search_hint">Nhập vị trí</string>
+    <string name="txt_no_result">không có kết quả nào được tìm thấy</string>
+    <string name="text_added">Thêm</string>
+    <string name="text_share">Chia sẻ</string>
+    <string name="txt_feedback">Nhận xét</string>
+    <string name="desc_delete">Xóa mục</string>
+    <string name="intro_support">
+Chính sách bảo mật ứng dụng thời tiết:
+
+Ứng dụng thời tiết không thu thập thông tin cá nhân của người dùng.
+Mọi dữ liệu liên quan đến thời tiết chỉ được sử dụng để cung cấp thông tin thời tiết cho người dùng và không được chia sẻ với bất kỳ bên thứ ba nào.
+Ứng dụng không sử dụng quảng cáo hoặc công cụ theo dõi người dùng.
+Chúng tôi cam kết bảo mật và bảo vệ thông tin cá nhân của người dùng.
+Đây là một chính sách bảo mật đơn giản và ngắn gọn cho ứng dụng thời tiết.</string>
+    <string name="intro_supports">SBTY - Ứng dụng Thời tiết đáng tin cậy hàng đầu.
+
+Cung cấp thông tin thời tiết chi tiết, chính xác và đáng tin cậy cho mọi địa điểm.
+Xem dự báo thời tiết hàng ngày, giờ và địa điểm theo sở thích cá nhân.
+Theo dõi thời tiết hiện tại và dự báo trong tương lai để chuẩn bị trước.
+Thông báo tức thì về thay đổi thời tiết quan trọng và cảnh báo thời tiết xấu.
+Đồng bộ dữ liệu thời tiết trên nhiều thiết bị và cập nhật thông tin liên tục.
+Giao diện đẹp mắt, dễ sử dụng và tương thích với mọi loại thiết bị di động.
+Tận hưởng trải nghiệm thời tiết tuyệt vời cùng SBTY - Ứng dụng Thời tiết hàng đầu.</string>
+</resources>
